@@ -1,0 +1,9 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" -javaagent:C:\Users\Meghali\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\lib\idea_rt.jar=54151:C:\Users\Meghali\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\bin -Dfile.encoding=UTF-8 -classpath "C:\Users\Meghali\OneDrive\Desktop\NIIT Notes\Course3\Sprint4\c3_s4_pc1_HammondBookStore\out\production\c3_s4_pc1_HammondBookStore" com.bookstore.BookImpl
+Title = AbC
+ISBN Number = 123456789012
+Discription = XYZ
+Price = 500.0
+Author Name : PQR
+Author Pen Name : GH
+
+Process finished with exit code 0
